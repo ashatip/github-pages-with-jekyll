@@ -3,6 +3,7 @@ author: Ahmet Hatip
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   I am learning github. 
+theme: minima
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
